@@ -46,3 +46,4 @@ This lesson covers the main data types and **variable naming rules**.
    ```java
    int studentScore;  // better than int s;
    ```
+

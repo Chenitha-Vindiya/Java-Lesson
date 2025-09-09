@@ -124,3 +124,4 @@ Example output (if inputs are 8 and 4):
 ### Q7: Character Input
 - Ask the user to enter a **single character** (char).  
 - Print `"You entered: ___"`.  
+
